@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-firebase-angular-pedro": {
+      "hosting": {
+        "crud": [
+          "crud-firebase-angular-pedro"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-firebase-angular-pedro"
+  }
+}
